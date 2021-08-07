@@ -1,12 +1,12 @@
-# PLUGIN FOR REPRODUCING ISSUE WoltLab/WCF#4444
+# PLUGIN FOR REPRODUCING ISSUE [WoltLab/WCF#4444](https://github.com/WoltLab/WCF/issues/4444)
 
 This repository contains a little plugin for the WoltLab Suite Core 5.4 representing
-an issue apparently introduced with with WoltLab/WCF#4431.
+an issue apparently introduced with with [WoltLab/WCF#4431](https://github.com/WoltLab/WCF/pull/4431).
 
 # Requirements
-To reproduce the error described in issue WoltLab/WCF#4444 it is necessary to
+To reproduce the error described in issue [WoltLab/WCF#4444](https://github.com/WoltLab/WCF/issues/4444) it is necessary to
 install the release build of Suite Core 5.4.2 and take over the changes from
-WoltLab/WCF#4431.
+[WoltLab/WCF#4431](https://github.com/WoltLab/WCF/pull/4431).
 
 # Usage
 * Clone the repository
